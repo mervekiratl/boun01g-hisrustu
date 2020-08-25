@@ -1,5 +1,3 @@
-## HisRüstü's Progress Journal
-
 This is group HisRüstü's progress journal created for IE 48A of Summer'20 course at Boğaziçi University. 
 
 ## Group Members
