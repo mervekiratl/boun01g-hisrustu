@@ -9,6 +9,9 @@ This is group HisRüstü's progress journal created for IE 48A of Summer'20 cour
 - [Faruk Tüfekçi](https://pjournal.github.io/boun01-faruktufekci)
 
 
+### Assignment
+
+
 
 
 ### Final Project
