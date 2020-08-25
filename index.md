@@ -11,13 +11,18 @@ This is group HisRüstü's progress journal created for IE 48A of Summer'20 cour
 - [Faruk Tüfekçi](https://pjournal.github.io/boun01-faruktufekci)
 
 
+
+
 ### Final Project
 - Data
 - Project Proposal
 
 
+
+
+
 ### Bonus Project
-Tutorial of package *plumber*
+  Tutorial of package *plumber*
 - Written tutorial
 - Video tutorial
 
